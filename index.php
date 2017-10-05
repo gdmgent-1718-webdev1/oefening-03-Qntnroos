@@ -21,6 +21,6 @@
     <p><?= $x  ?> - <?= $y  ?> = <?= $difference ?></p>
     <p><?= $x  ?> * <?= $y  ?> = <?= $multiply ?></p>
     <p><?= $x  ?> / <?= $y  ?> = <?= $divide ?></p>
-    <p>De rest van <?= $x  ?> en <?= $y  ?>is <?= $rest ?></p>
+    <p>De rest van <?= $x  ?> en <?= $y  ?> is <?= $rest ?></p>
 </body>
 </html>
